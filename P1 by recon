@@ -1,0 +1,7 @@
+    
+   https://medium.com/@kirtanpatel9111998/how-i-was-able-to-find-easy-p1-just-by-doing-recon-fdef0c689362
+    
+    
+    always try to find subdomains as much as you can.
+    shortlist all the subdomains which feels juicy. Try hidden parameter search, Directory bruteforcing, Port scanning, js fils, CVE search.
+    Strong and proper recon= sometimes easy win :)
